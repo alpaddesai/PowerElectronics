@@ -12,5 +12,5 @@ All images are custom or have references.
 ## Power Tree Diagram 
 ![image](PowerTreeImage.png)
 
-## LDO Simulation
+## Power Simulation
 ![image](LDOImage.png)
