@@ -7,7 +7,7 @@ Please click on the executable located in https://github.com/alpaddesai/PowerEle
 All images are custom or have references.
 
 ## Power Management IC
-![image]()
+![image](PowerManagementICImage.png)
 
 ## Power Tree Diagram 
 ![image]()
