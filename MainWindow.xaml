@@ -5,8 +5,53 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:PowerElectronics"
         mc:Ignorable="d"
-        Title="MainWindow" Height="547" Width="899">
+        Title="MainWindow" Height="774" Width="1105" MaxWidth="1105" MaxHeight="774">
     <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="207*"/>
+            <ColumnDefinition Width="14*"/>
+        </Grid.ColumnDefinitions>
+        <TabControl MaxWidth="1105" MaxHeight="758" Grid.ColumnSpan="2">
+            <TabItem Header="Power Management">
+                <Grid Background="#FFE5E5E5">
+                    <TabControl>
+                        <TabItem Header="Power Management IC">
+                            <Grid Background="#FFE5E5E5" Margin="-2,-2,1,1">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="157*"/>
+                                    <ColumnDefinition Width="10*"/>
+                                    <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="21*"/>
+                                    <ColumnDefinition Width="906*"/>
+                                </Grid.ColumnDefinitions>
+                                <Image HorizontalAlignment="Left" Height="672" Margin="12,8,0,0" VerticalAlignment="Top" Width="1070" Source="/PowerManagementIC.png" Grid.ColumnSpan="5"/>
+                            </Grid>
+                        </TabItem>
+                        <TabItem Header="Power Tree" Height="20" VerticalAlignment="Top">
+                            <TabItem.Background>
+                                <ImageBrush/>
+                            </TabItem.Background>
+                            <Grid Background="#FFE5E5E5">
+                                <Image Margin="10,5,15,21" Stretch="Fill" Source="/PowerSequencing.png"/>
+                            </Grid>
+                        </TabItem>
+                    </TabControl>
+                </Grid>
+            </TabItem>
+            <TabItem Header="LDO Image">
+                <Grid Background="#FFE5E5E5">
+                    <Image Margin="15,8,10,20" Stretch="Fill" Source="/LDOImage.jpg"/>
+                </Grid>
+            </TabItem>
+            <TabControl>
+                <TabItem Header="TabItem">
+                    <Grid Background="#FFE5E5E5"/>
+                </TabItem>
+                <TabItem Header="TabItem">
+                    <Grid Background="#FFE5E5E5"/>
+                </TabItem>
+            </TabControl>
+        </TabControl>
 
     </Grid>
 </Window>

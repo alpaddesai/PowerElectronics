@@ -6,4 +6,16 @@
     <UseWPF>true</UseWPF>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="LDOImage.jpg" />
+    <None Remove="PowerManagementIC.png" />
+    <None Remove="PowerSequencing.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="LDOImage.jpg" />
+    <Resource Include="PowerManagementIC.png" />
+    <Resource Include="PowerSequencing.png" />
+  </ItemGroup>
+
 </Project>
