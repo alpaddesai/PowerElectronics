@@ -17,4 +17,3 @@ All images are custom or have references.
 
 ## Compensation simulation
 ###Tina-TI 
-![image](CloadCompensation.png)
