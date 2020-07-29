@@ -16,5 +16,5 @@ All images are custom or have references.
 ![image](LDOImage.png)
 
 ## Compensation simulation
-###Tina-TI 
+### Tina-TI 
 ![image](CloadCompensation1.png)
