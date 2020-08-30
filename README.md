@@ -19,4 +19,7 @@ All images are custom or have references.
 ### Tina-TI 
 ![image](CloadCompensation1.png)
 
+## Power Electronics Certificate
+![image](PowerElectronics.jpg)
+
 Further knowledge : https://github.com/alpaddesai/PowerDistributionNetworks 
