@@ -22,4 +22,7 @@ All images are custom or have references.
 ## Power Electronics Certificate
 ![image](PowerElectronics.jpg)
 
+## Interest
+![image](image.png)
+
 Further knowledge : https://github.com/alpaddesai/PowerDistributionNetworks 
