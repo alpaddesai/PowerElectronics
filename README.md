@@ -8,7 +8,7 @@ All images are custom or have references.
 
 ## Power Management Integrated Circuits
 ![image](PowerManagementICImage.png)
-![image](powerlectronics.png)
+![image](powerelectronics.png)
 
 ## Power Tree Diagram 
 ![image](PowerTreeImage.png)
