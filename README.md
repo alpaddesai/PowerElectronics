@@ -15,6 +15,7 @@ All images are custom or have references.
 
 ## Simulation
 ![image](LDOImage.png)
+![image](tinapowersupply.png)
 
 ## Compensation simulation
 ### Tina-TI 
@@ -22,7 +23,7 @@ All images are custom or have references.
 
 ## Power Electronics Certificate
 ![image](PowerElectronics.jpg)
-![image](tinapowersupply.png)
+
 
 ## Interest
 ![image](image.png)
