@@ -22,6 +22,7 @@ All images are custom or have references.
 
 ## Power Electronics Certificate
 ![image](PowerElectronics.jpg)
+![image](tinapowersupply.png)
 
 ## Interest
 ![image](image.png)
