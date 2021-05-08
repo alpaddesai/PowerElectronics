@@ -9,13 +9,14 @@ All images are custom or have references.
 ## Power Management Integrated Circuits
 ![image](PowerManagementICImage.png)
 ![image](powerelectronics.png)
+![image](tinapowersupply.png)
 
 ## Power Tree Diagram 
 ![image](PowerTreeImage.png)
 
 ## Simulation
 ![image](LDOImage.png)
-![image](tinapowersupply.png)
+
 
 ## Compensation simulation
 ### Tina-TI 
