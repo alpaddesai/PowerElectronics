@@ -17,6 +17,8 @@ All images are custom or have references.
 ## Simulation
 ![image](LDOImage.png)
 
+## Switcher
+![image](Switcher.jpg)
 
 ## Compensation simulation
 ### Tina-TI 
