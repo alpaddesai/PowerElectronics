@@ -27,6 +27,8 @@ All images are custom or have references.
 ## Power Electronics Certificate
 ![image](PowerElectronics.jpg)
 
+## Ethics and Integrity
+![image](EthicsandExcellence.png)
 
 ## Interest
 ![image](image.png)
