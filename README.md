@@ -24,7 +24,7 @@ All images are custom or have references.
 ### Tina-TI 
 ![image](CloadCompensation1.png)
 
-## Power Electronics Certificate
+## Power Electronics 
 ![image](PowerElectronics.jpg)
 
 ## Ethics and Integrity
