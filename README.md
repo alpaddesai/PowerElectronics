@@ -14,8 +14,6 @@ All images are custom or have references.
 ## Power Tree Diagram 
 ![image](PowerTreeImage.png)
 
-## Simulation
-![image](LDOImage.png)
 
 ## Switcher
 ![image](Switcher.jpg)
