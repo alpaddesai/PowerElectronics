@@ -28,8 +28,4 @@ All images are custom or have references.
 ## Ethics and Integrity
 ![image](EthicsandExcellence.png)
 
-## Interest
-![image](image.png)
-![image](image1.png)
-
 Further knowledge : https://github.com/alpaddesai/PowerDistributionNetworks 
