@@ -14,7 +14,6 @@ All images are custom or have references.
 ## Power Tree Diagram 
 ![image](PowerTreeImage.png)
 
-
 ## Switcher
 ![image](Switcher.jpg)
 
@@ -24,6 +23,9 @@ All images are custom or have references.
 
 ## Power Electronics 
 ![image](PowerElectronics.jpg)
+
+## Admission letter
+![image](admissionletter.jpg)
 
 ## Ethics and Integrity
 ![image](EthicsandExcellence.png)
