@@ -33,4 +33,6 @@ All images are custom or have references.
 ## Ethics and Integrity
 ![image](EthicsandExcellence.png)
 
+![image](USCopyrightCertificate.png)
+
 Further knowledge : https://github.com/alpaddesai/PowerDistributionNetworks 
