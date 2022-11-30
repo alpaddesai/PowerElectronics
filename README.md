@@ -24,12 +24,6 @@ All images are custom or have references.
 ## Power Electronics 
 ![image](PowerElectronics.jpg)
 
-## Admission letter
-![image](admissionletter.jpg)
-
-## GMAT exam
-![image](GMATImage5.jpg)
-
 ## Ethics and Integrity
 ![image](EthicsandExcellence.png)
 
