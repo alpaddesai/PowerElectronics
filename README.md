@@ -1,4 +1,4 @@
-# Power Electronics 2021
+# Power Electronics - 11/2021
 
 The project provides details on power electroncis for a board design project. 
 
