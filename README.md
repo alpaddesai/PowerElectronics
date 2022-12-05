@@ -1,6 +1,6 @@
 # Power Electronics 
 
-# 11/2021
+## 11/2021
 The project provides details on power electroncis for a board design project. 
 
 Please click on the executable located in https://github.com/alpaddesai/PowerElectronics/releases for details. 
