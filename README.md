@@ -30,4 +30,4 @@ All images are custom or have references.
 
 ![image](USCopyrightCertificate.png)
 
-Further knowledge : https://github.com/alpaddesai/PowerDistributionNetworks 
+Further knowledge :https://github.com/alpaddesai/PowerManagementIntegratedCircuit
